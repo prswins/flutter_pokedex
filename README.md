@@ -1,17 +1,30 @@
-# pokedex
+### Versão Flutter
+- Flutter version 2.2.3 
+- Dart version 2.13.4
+- API : pokemon
 
-A new Flutter project.
+###Recursos
+-Consumo api
+-Routes
+-Animação em widgets
+-Listas dynamicas
 
-## Getting Started
+###Motivação
+Aprender e colocar em pratica animações simples no Flutter
 
-This project is a starting point for a Flutter application.
+###Fonte :
+[[1]Renauto Moura][1]
 
-A few resources to get you started if this is your first Flutter project:
+# Pokedex.md
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Aplicação criada para colocar em prática consumo de api com DIO, listagem e animações em Flutter 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# flutter_pokedex" 
+##Tela de apresentação dos pokemons:
+![tela 1](https://raw.githubusercontent.com/prswins/flutter_pokedex/main/flutter_01.png)
+
+##Tela de detalhes dos pokemons:
+![tela 1](https://raw.githubusercontent.com/prswins/flutter_pokedex/main/flutter_02.png)
+
+
+###End
+[1]: https://www.youtube.com/watch?v=qxyiXDST6_g&list=PLHAtJbrQ17AWaIWRiBl75ON3XEznUfX-a&ab_channel=RenatoMota "Pokedex Flutter 2021"
